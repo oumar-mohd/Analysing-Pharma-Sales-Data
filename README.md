@@ -22,13 +22,30 @@ Dataset téléchargé sur Kaggle : [Pharma Sales Data](https://www.kaggle.com/da
 - **N02BE** a le plus grand volume de ventes et la meilleure moyenne quotidienne (environ 29,92).
 - **R03** : décembre est le meilleur mois en moyenne, juillet le plus faible.
 
-## Lancer le projet
+## Installation et utilisation
+
+### 1. Installer les dépendances
 
 ```bash
 pip install pandas matplotlib seaborn jupyter
+```
+
+### 2. Lancer Jupyter Notebook
+
+```bash
 jupyter notebook
+```
 
-**Ouvrez** pharmaceutical_sales_analysis.ipynb pour suivre l'analyse étape par étape.
-Auteur
-Oumar Mohamed Diarrasouba, étudiant en informatique, passionné par la Data Analysis et la Data Science.
+### 3. Ouvrir le notebook
 
+Ouvrez le fichier `pharmaceutical_sales_analysis.ipynb` pour suivre l'analyse étape par étape.
+
+---
+
+## Auteur
+
+**Oumar Mohamed Diarrasouba**
+
+Étudiant en informatique, passionné par la Data Analysis et la Data Science.
+
+[GitHub](https://github.com/oumar-mohd)
